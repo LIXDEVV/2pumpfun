@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import Image from 'next/image'
 
 export default function HeroSection() {
   const [isHovering, setIsHovering] = useState(false)
@@ -13,7 +12,7 @@ export default function HeroSection() {
         <h1 className="text-7xl md:text-8xl font-bold mb-6 text-balance leading-tight">
           TRADER
         </h1>
-        
+        a
         {/* LIVES Box */}
         <div className="relative inline-block mb-8">
           <div className="border-4 border-primary px-8 py-4">
@@ -36,39 +35,6 @@ export default function HeroSection() {
           </p>
         </div>
 
-        <div className="flex flex-col items-center gap-12 mb-12">
-          <div className="w-32 h-32 md:w-40 md:h-40 relative">
-            <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-I7svjaEvleXy3mV9zpAvpp6OHbVzol.png"
-              alt="Logo"
-              fill
-              className="object-contain"
-              priority
-            />
-          </div>
-
-          {/* Animated Arrow */}
-          <div
-            onMouseEnter={() => setIsHovering(true)}
-            onMouseLeave={() => setIsHovering(false)}
-          >
-            <svg
-              className={`w-20 h-20 md:w-24 md:h-24 text-primary transition-transform duration-300 ${
-                isHovering ? 'translate-y-2' : ''
-              }`}
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M19 14l-7 7m0 0l-7-7m7 7V3"
-              />
-            </svg>
-          </div>
-        </div>
       </div>
     </section>
   )
