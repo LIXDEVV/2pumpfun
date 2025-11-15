@@ -14,14 +14,14 @@ export default function Home() {
       {/* Eyes to the Issue Section */}
       <SmartTweetSection 
         title="we will bring eyes to the issue, for every tweet about $TLM is a step in spreading awareness."
-        tweetUrl="https://x.com/eveeOx/status/1854898394717020517"
+        tweetUrl="https://x.com/detraderSol/status/1989441686884524049"
         position="right"
       />
 
       {/* Trenches Cannot Survive Section */}
       <SmartTweetSection 
         title="the trenches cannot survive without the people who run it. traders need it to be worth it to stay."
-        tweetUrl="https://x.com/jpialeeen/status/1854873456789012345"
+        tweetUrl="https://x.com/RipJalens/status/1989014926686290217
         position="left"
       />
 
