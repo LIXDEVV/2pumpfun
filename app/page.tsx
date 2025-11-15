@@ -27,7 +27,7 @@ export default function Home() {
 
       {/* New Section with Different Messaging */}
       <SmartTweetSection 
-        title="The goal is not to have millions of dollars in currency; our purpose is to be seen and understood."
+        title="The goal is not to have millions of dollars in coin; our purpose is to be seen and understood."
         tweetUrl="https://x.com/DaRealLORDLIMO/status/1989185942419345762"
         position="right"
       />
