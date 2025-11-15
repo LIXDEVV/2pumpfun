@@ -6,34 +6,34 @@ export default function HeroSection() {
   const [isHovering, setIsHovering] = useState(false)
 
   return (
-    <section className="min-h-screen bg-background flex items-center justify-center px-4 py-20">
-      <div className="w-full max-w-6xl mx-auto text-center space-y-12">
+<section className="min-h-screen bg-background flex items-center justify-center px-4 py-20">
+  <div className="w-full text-center">
 
-        {/* LOGO FIJO A 192px Y CENTRADO */}
-        <img 
-          src="https://i.postimg.cc/76ZXg9Vk/logo.png"
-          alt="2 Fun Pump logo"
-          className="mx-auto w-48 h-48 object-contain"
-          // w-48 = exactamente 192px en Tailwind
-          // mx-auto = centrado horizontal perfecto
-          // h-48 = mantiene la altura para que no se deforme (opcional, quítalo si prefieres que se ajuste solo)
-        />
-
+    {/* LOGO CENTRADO - CAMBIA SOLO UNA PALABRA AQUÍ */}
+    <img 
+      src="https://i.postimg.cc/76ZXg9Vk/logo.png"
+      alt="Mi logo"
+      className="mx-auto w-48 object-contain"
+    />
+        
         {/* LIVES Box */}
-        <div className="inline-block">
-          <div className="border-4 md:border-8 border-primary px-10 py-5 md:px-16 md:py-8 rounded-2xl">
-            <span className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tight">
-              2 Fun Pump
-            </span>
+        <div className="relative inline-block mb-8">
+          <div className="border-4 border-primary px-8 py-4">
+            <span className="text-6xl md:text-7xl font-bold text-balance"> 2 Fun Pump</span>
           </div>
         </div>
+        
+        {/* MATTER */}
+        <h1 className="text-7xl md:text-8xl font-bold text-balance leading-tight mb-12">
+         
+        </h1>
 
         {/* Tagline */}
-        <div className="space-y-6 max-w-4xl mx-auto">
-          <p className="text-2xl md:text-4xl font-bold text-balance leading-relaxed">
+        <div className="mb-16">
+          <p className="text-2xl md:text-3xl font-semibold mb-4 text-balance leading-relaxed">
             for every 1 trader there are 3 deployers.
           </p>
-          <p className="text-xl md:text-3xl font-medium text-balance opacity-90">
+          <p className="text-xl md:text-2xl font-medium text-balance">
             we must put this to an end.
           </p>
         </div>
