@@ -6,7 +6,7 @@ export default function ActionButtons() {
       <div className="max-w-2xl w-full text-center">
         <div className="flex justify-center mb-16">
           <img 
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-xE3DZQCX30SDtB8SL6wNbtt325LHGz.png" 
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-1VKj6nJi7JikRyXVLayWk1uokuyuM2.png" 
             alt="TLM Pill Logo" 
             className="w-32 h-32 object-contain"
           />
