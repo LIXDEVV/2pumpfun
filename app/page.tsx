@@ -21,7 +21,7 @@ export default function Home() {
       {/* Trenches Cannot Survive Section */}
       <SmartTweetSection 
         title="the trenches cannot survive without the people who run it. traders need it to be worth it to stay."
-        tweetUrl="https://x.com/RipJalens/status/1989014926686290217
+        tweetUrl="https://x.com/RipJalens/status/1989014926686290217"
         position="left"
       />
 
