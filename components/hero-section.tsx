@@ -10,19 +10,19 @@ export default function HeroSection() {
       <div className="max-w-4xl w-full text-center">
         {/* Title */}
         <h1 className="text-7xl md:text-8xl font-bold mb-6 text-balance leading-tight">
-          TRADER
+      
         </h1>
         
         {/* LIVES Box */}
         <div className="relative inline-block mb-8">
           <div className="border-4 border-primary px-8 py-4">
-            <span className="text-6xl md:text-7xl font-bold text-balance">LIVES</span>
+            <span className="text-6xl md:text-7xl font-bold text-balance"> 2 Fun Pump</span>
           </div>
         </div>
         
         {/* MATTER */}
         <h1 className="text-7xl md:text-8xl font-bold text-balance leading-tight mb-12">
-          MATTER
+         
         </h1>
 
         {/* Tagline */}
