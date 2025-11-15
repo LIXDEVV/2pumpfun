@@ -10,28 +10,28 @@ export default function HeroSection() {
       <div className="max-w-4xl w-full text-center">
         {/* Title */}
         <h1 className="text-7xl md:text-8xl font-bold mb-6 text-balance leading-tight">
-          
+          TRADER
         </h1>
         
         {/* LIVES Box */}
         <div className="relative inline-block mb-8">
           <div className="border-4 border-primary px-8 py-4">
-            <span className="text-6xl md:text-7xl font-bold text-balance">2 PUmp Fun</span>
+            <span className="text-6xl md:text-7xl font-bold text-balance">LIVES</span>
           </div>
         </div>
         
         {/* MATTER */}
         <h1 className="text-7xl md:text-8xl font-bold text-balance leading-tight mb-12">
-          
+          MATTER
         </h1>
 
         {/* Tagline */}
         <div className="mb-16">
           <p className="text-2xl md:text-3xl font-semibold mb-4 text-balance leading-relaxed">
-            I wish things were the other way around
+            for every 1 trader there are 3 deployers.
           </p>
           <p className="text-xl md:text-2xl font-medium text-balance">
-            it's time to change things.
+            we must put this to an end.
           </p>
         </div>
 
