@@ -28,7 +28,7 @@ export default function HeroSection() {
         {/* Tagline */}
         <div className="mb-16">
           <p className="text-2xl md:text-3xl font-semibold mb-4 text-balance leading-relaxed">
-            for every 1 trader there are 3 deployers.
+            I wish things were the other way around
           </p>
           <p className="text-xl md:text-2xl font-medium text-balance">
             we must put this to an end.
