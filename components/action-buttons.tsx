@@ -16,6 +16,7 @@ export default function ActionButtons() {
         <h2 className="text-3xl md:text-4xl font-bold mb-16 text-balance">
           $TLM becomes trending on pumpfun with a news header
         </h2>
+         </div>
 
         {/* Button Group */}
         <div className="flex flex-col md:flex-row gap-8 justify-center items-center mb-20">
