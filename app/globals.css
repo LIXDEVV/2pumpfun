@@ -3,9 +3,10 @@
 @theme inline {
   --color-background: #0a0a0a;
   --color-foreground: #ffffff;
-  --color-primary: #E74C3C;
+  --color-primary: #EE7968;
   --color-primary-dark: #C0392B;
-  --color-brown: #3D2817;
+  --color-brown: #4A3728;
+  --color-beige: #D4C5B0;
   --radius: 0.5rem;
 }
 

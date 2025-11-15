@@ -6,7 +6,7 @@ export default function ActionButtons() {
       <div className="max-w-2xl w-full text-center">
         <div className="flex justify-center mb-16">
           <img 
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-lzazvcDiKacZBRwKu8Sc1PSfZsB6yV.png" 
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-xE3DZQCX30SDtB8SL6wNbtt325LHGz.png" 
             alt="TLM Pill Logo" 
             className="w-32 h-32 object-contain"
           />
@@ -70,14 +70,14 @@ export default function ActionButtons() {
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
             >
-              <ellipse cx="50" cy="25" rx="18" ry="16" fill="#6B8E23" stroke="#2D2D2D" strokeWidth="2" />
-              <path d="M 35 38 Q 50 42 65 38" stroke="#2D2D2D" strokeWidth="2" fill="none" />
-              <rect x="30" y="50" width="40" height="35" rx="8" fill="#E8D5C4" stroke="#2D2D2D" strokeWidth="2" />
-              <ellipse cx="25" cy="60" rx="8" ry="12" fill="#E8D5C4" stroke="#2D2D2D" strokeWidth="2" />
-              <rect x="32" y="48" width="8" height="28" rx="4" fill="#E8D5C4" stroke="#2D2D2D" strokeWidth="1.5" />
-              <rect x="42" y="46" width="8" height="30" rx="4" fill="#E8D5C4" stroke="#2D2D2D" strokeWidth="1.5" />
-              <rect x="52" y="48" width="8" height="28" rx="4" fill="#E8D5C4" stroke="#2D2D2D" strokeWidth="1.5" />
-              <path d="M 30 70 Q 50 75 70 70" stroke="#D4C4B0" strokeWidth="1" fill="none" opacity="0.6" />
+              <ellipse cx="50" cy="25" rx="18" ry="16" fill="#EE7968" stroke="#4A3728" strokeWidth="2" />
+              <path d="M 35 38 Q 50 42 65 38" stroke="#4A3728" strokeWidth="2" fill="none" />
+              <rect x="30" y="50" width="40" height="35" rx="8" fill="#D4C5B0" stroke="#4A3728" strokeWidth="2" />
+              <ellipse cx="25" cy="60" rx="8" ry="12" fill="#D4C5B0" stroke="#4A3728" strokeWidth="2" />
+              <rect x="32" y="48" width="8" height="28" rx="4" fill="#D4C5B0" stroke="#4A3728" strokeWidth="1.5" />
+              <rect x="42" y="46" width="8" height="30" rx="4" fill="#D4C5B0" stroke="#4A3728" strokeWidth="1.5" />
+              <rect x="52" y="48" width="8" height="28" rx="4" fill="#D4C5B0" stroke="#4A3728" strokeWidth="1.5" />
+              <path d="M 30 70 Q 50 75 70 70" stroke="#D4C5B0" strokeWidth="1" fill="none" opacity="0.6" />
             </svg>
           </div>
         </div>
