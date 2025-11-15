@@ -15,8 +15,8 @@ export default function Home() {
       <ContentSection 
         title="we will bring eyes to the issue, for every tweet about $TLM is a step in spreading awareness."
         content={{
-          author: "eveeOx",
-          handle: "@eveeOx",
+          author: "mayggoe",
+          handle: "@mayggoe",
           verified: true,
           text: "Now Solana has more developers than traders, and you all know the reason behind it.",
           time: "6:00 PM - Nov 13, 2025",
@@ -31,7 +31,7 @@ export default function Home() {
 
       {/* Trenches Cannot Survive Section */}
       <ContentSection 
-        title="the trenches cannot survive without the people who run it. traders need it to be worth it to stay."
+trader        title="the trenches cannot survive without the people who run it. s need it to be worth it to stay."
         content={{
           author: "jalen",
           handle: "@jpialeeen",

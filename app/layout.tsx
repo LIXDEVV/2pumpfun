@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Trader Lives Matter',
+  title: '2 Fun Pump',
   description: 'For every 1 trader there are 3 deployers',
   generator: 'v0.app',
 }
