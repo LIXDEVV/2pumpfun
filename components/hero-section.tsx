@@ -13,7 +13,6 @@ export default function HeroSection() {
       alt="2 fun pump" 
       className="mx-auto w-full max-w-lg lg:max-w-2xl object-contain animate-in fade-in zoom-in duration-700 drop-shadow-2xl"
     />
-  </div>
         
         {/* LIVES Box */}
         <div className="relative inline-block mb-8">
