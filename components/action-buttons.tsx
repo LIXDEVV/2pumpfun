@@ -49,7 +49,7 @@ export default function ActionButtons() {
 
           {/* DEX Button */}
           <a
-            href="https://dexscreener.com"
+            href="https://dexscreener.com/solana/dr3r6cxkvcwrxn9erc2mzjykj1gh9t3tswvclhra2qjg"
             target="_blank"
             rel="noopener noreferrer"
             className="w-32 h-32 bg-primary/10 rounded-3xl flex flex-col items-center justify-center hover:bg-primary/20 transition-all duration-300 border-2 border-primary hover:scale-110 hover:shadow-lg shadow-lg"
